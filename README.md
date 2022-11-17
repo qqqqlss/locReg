@@ -14,3 +14,6 @@ MongoDB, NodeJS, google MAP API
 > 글들 위에서 부터 차례로 나열  
 > 제목, 날짜, 설명 확인 가능  
 > 읽기, 수정, 삭제 가능  
+## 시연
+[![image](https://user-images.githubusercontent.com/54983139/202380713-25fb48bf-793b-4806-86d4-ea467b07fc9a.png)](https://youtu.be/kBLeVeUbDIQ)
+
